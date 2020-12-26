@@ -4,9 +4,7 @@
 
 📚计算机科学与技术专业
 
-🌱目前自学Android
-
-👨‍🦱
+🌱现就职于某公司
 
 <!--
 **ltbw/ltbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
